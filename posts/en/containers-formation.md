@@ -1,7 +1,7 @@
 How Was the "It Works on My Machine, But Not on Yours!" Problem Solved? - The History of Container Formation and Evolution
 
-> 🇮🇷 Farsi version:
-> ../en/containers-formation.md
+> 🇮🇷 نسخهٔ فارسی:
+> ../../posts/fa/containers-formation.md
 
 Once upon a time, in a corner of this planet, there were some programmers who wrote genuinely good and clean code. But they had one big problem:
 
